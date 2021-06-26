@@ -1,18 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rahul Gautam Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Full Stacj MERN Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulgautamsingh&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgautamsingh" /> </p>
 
 
-- 🔭 I’m currently working on **MERN Stack projects by self**
+- 🔭 I’m currently working on **MERN Stack projects**
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **MERN Stack projects**
-
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/rahulgautamsingh/sites](https://app.netlify.com/teams/rahulgautamsingh/sites)
-
-- 💬 Ask me about **HTML/CSS/Vanilla.js/React.js(front-end))**
 
 - 📫 How to reach me **rahul_ug@cse.nits.ac.in**
 
