@@ -52,4 +52,16 @@
   <div>
   <h3 align="left">Movies Website</h3>
   <img src="https://user-images.githubusercontent.com/76607510/127620142-504abba2-2e63-462e-9913-f1b79a8a2e95.png" alt="movieswebsite" />
+  <p>This is a website to browse and search popular movies and view posters and trailer videos. Implemented search using a 3rd Party REST API and used routing and pagination to load 20 movies at a time.</p>
+
+  <p>Front-end: ReactJS</p>
+
+  <p>API: <a href="https://developers.themoviedb.org/3/getting-started/introduction">TMDB</a></p>
+
+  
+  <p>You can look at the website <a href="https://optimistic-bose-0c75d0.netlify.app">here</a>.</p>
+
+  <p>Movies Website Detailed Page</p>
+  <img src="https://user-images.githubusercontent.com/76607510/127622334-294a0026-aba0-4945-8d88-b2f1bf0992f5.png" alt="movieswebsite" />
+
   </div>
