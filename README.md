@@ -8,7 +8,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/rahulgautamsingh/sites](https://app.netlify.com/teams/rahulgautamsingh/sites) -->
 
-- 📫 How to reach me **rahul_ug@cse.nits.ac.in**
+- 📫 How to reach me **rahultesnik@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
