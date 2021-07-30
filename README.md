@@ -31,7 +31,7 @@
 
 <p>It is an app created to help teachers get instant response from students in a live online class. Teacher can create a session, add students and can share a unique link with students. When a student opens the portal and answers something, it appears on the teacher's dashboard real time.</p>
 
-    <p>Front-end:</p>
+    <p>Front-end: </p>
 <ul>
     <li>ReactJS</li>
     <li>Redux</li>
