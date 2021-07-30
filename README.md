@@ -48,3 +48,9 @@
     <p>Everyone Answers Student Page</p>
      <img src="https://user-images.githubusercontent.com/76607510/127610917-d2434aa3-52f7-4223-b772-7b515d2ebf9c.png" alt="everyoneAnswers"/>
   </div>
+  
+  <div>
+  <h3 align="left">Movies Website</h3>
+  <img src="https://user-images.githubusercontent.com/76607510/127620142-504abba2-2e63-462e-9913-f1b79a8a2e95.png
+" alt="movieswebsite" />
+  </div>
