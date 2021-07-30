@@ -25,10 +25,7 @@
   </div>
   
   <div>
-  <h3 align="left">Everyone Answers<(Firebase)/h3>
-  <img src="https://user-images.githubusercontent.com/76607510/127609445-a16aedac-3e2b-476b-91ae-f2f079725d9a.png" alt="memoryGameImg"/>
-   <p>Created a fun time-based memory game using ReactJS. Using multiple timers on the same page was a challenge.</p>
-  <p><a href="https://agitated-swanson-d14fa1.netlify.app/">Here</a> is the link to play the game, enjoy!</p>
-  <h3 align="left">Ongoing Memory Game</h3>
-<img src="https://user-images.githubusercontent.com/76607510/127608286-2ea62137-9a94-4f36-86a8-24149c05b9bb.png" alt="memoryGameImg"/>
+  <h3 align="left">Everyone Answers<(Firebase)</h3>
+ 
+  
   </div>
