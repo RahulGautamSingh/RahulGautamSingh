@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rahul Gautam Singh</h1>
-<h3 align="center">Full-stack Developer Freelance Jul 2021 – Present Creating web apps for clients on UpWork using the MERN stack.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulgautamsingh&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgautamsingh" /> </p>
 
 
-- 🔭 I’m currently learning and working  **MERN Stack**
+- 🔭 Full-stack Developer Freelance Jul 2021 – Present Creating web apps for clients on UpWork using the MERN stack
 
 <!-- - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/rahulgautamsingh/sites](https://app.netlify.com/teams/rahulgautamsingh/sites) -->
 
