@@ -25,7 +25,7 @@
   </div>
   
   <div>
-  <h3 align="left">Everyone Answers<(Firebase)</h3>
+  <h3 align="left">Everyone Answers(Firebase)</h3>
      <img src="https://user-images.githubusercontent.com/76607510/127610804-59f571e4-3fcc-4ac5-adc1-43882a058e9a.png" alt="everyoneAnswers"/>
     <a href="#">GitHub Repo</a>
 
