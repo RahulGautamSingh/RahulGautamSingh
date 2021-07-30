@@ -51,6 +51,5 @@
   
   <div>
   <h3 align="left">Movies Website</h3>
-  <img src="https://user-images.githubusercontent.com/76607510/127620142-504abba2-2e63-462e-9913-f1b79a8a2e95.png
-" alt="movieswebsite" />
+  <img src="https://user-images.githubusercontent.com/76607510/127620142-504abba2-2e63-462e-9913-f1b79a8a2e95.png" alt="movieswebsite" />
   </div>
