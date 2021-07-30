@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Gautam Singh</h1>
-<h3 align="center">A Full Stack Developer from India</h3>
+<h3 align="center">Full-stack Developer Freelance Jul 2021 – Present Creating web apps for clients on UpWork using the MERN stack.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulgautamsingh&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgautamsingh" /> </p>
 
