@@ -28,7 +28,7 @@
 
 <p>It is an app created to help teachers get instant response from students in a live online class. Teacher can create a session, add students and can share a unique link with students. Students can then put answers in a textarea and it appears on the teacher's dashboard real time.</p>
 
-    <span>Front-end: </span>
+<p>Front-end:</p>
 <ul>
     <li>ReactJS</li>
     <li>Redux</li>
