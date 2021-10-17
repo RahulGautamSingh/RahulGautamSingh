@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulgautamsingh&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgautamsingh" /> </p>
 
 
-- 🔭 At present I am creating web apps for clients on UpWork using the MERN stack
+Currently working part-time on Upwork and contributing to open source projects.
 
 <!-- - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/rahulgautamsingh/sites](https://app.netlify.com/teams/rahulgautamsingh/sites) -->
 
