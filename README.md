@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulgautamsingh&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgautamsingh" /> </p>
 
 
-Currently working part-time on Upwork and contributing to open source projects.
+Currently working part-time on Upwork and contributing to open source projects, learning javascript + React and adding side-projects to my todo list🤣
 
 <!-- - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/rahulgautamsingh/sites](https://app.netlify.com/teams/rahulgautamsingh/sites) -->
 
