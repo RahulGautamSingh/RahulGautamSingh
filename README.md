@@ -24,28 +24,3 @@
  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <br>
-
-  <h3 align="left">Projects</h3>
-  <h3 align="left">Memory Game</h3>
-  <img src="https://user-images.githubusercontent.com/76607510/127607153-5bdd35d7-d181-4091-83a5-20a837bf3a1b.png" alt="memoryGameImg"/>
-   <p>Created a fun time-based memory game using ReactJS. Using multiple timers on the same page was a challenge.</p>
-  <p><a href="https://agitated-swanson-d14fa1.netlify.app/">Here</a> is the link to play the game, enjoy!</p>
-  <h3 align="left">Ongoing Memory Game</h3>
-<img src="https://user-images.githubusercontent.com/76607510/127608286-2ea62137-9a94-4f36-86a8-24149c05b9bb.png" alt="memoryGameImg"/>
-  </div>
-  <div>
-  <h3 align="left">Movies Website</h3>
-  <img src="https://user-images.githubusercontent.com/76607510/127620142-504abba2-2e63-462e-9913-f1b79a8a2e95.png" alt="movieswebsite" />
-  <p>This is a website to browse and search popular movies and view posters and trailer videos. Implemented search using a 3rd Party REST API and used routing and pagination to load 20 movies at a time.</p>
-
-  <p>Front-end: ReactJS</p>
-
-  <p>API: <a href="https://developers.themoviedb.org/3/getting-started/introduction">TMDB</a></p>
-
-  
-  <p>You can look at the website <a href="https://optimistic-bose-0c75d0.netlify.app">here</a>.</p>
-
-  <h3 align="left">Movies Website Detailed Page</h3>
-  <img src="https://user-images.githubusercontent.com/76607510/127622334-294a0026-aba0-4945-8d88-b2f1bf0992f5.png" alt="movieswebsite" />
-
-  </div>
