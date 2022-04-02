@@ -10,7 +10,7 @@
 </ul>
 <!-- - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/rahulgautamsingh/sites](https://app.netlify.com/teams/rahulgautamsingh/sites) -->
 
-- 📫 How to reach me <a href="mailto:rahultesnik@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/rahul-singh-032574196/">LinkedIn</a>
+- 📫 How to reach me <a href="mailto:rahultesnik@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/rahul-singh-032574196/">LinkedIn</a> | <a href="https://www.upwork.com/freelancers/~01de7453086c3730fc">Upwork</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
