@@ -48,7 +48,7 @@
   <ul>
     <li>Firebase firestore</li>
     <li>Firebase login with Google authentication</li>
-    <li>Here is a link to the teacher's dashboard for you to try it.</li>
+    <li>Here is a <a href="https://cocky-almeida-3605d7.netlify.app">link<a/> to the teacher's dashboard for you to try it.</li>
     </ul>
     <p>Everyone Answers Login Page</p>
    <img src="https://user-images.githubusercontent.com/76607510/127610893-c9c63767-7892-4419-9494-056345c4239c.png" alt="everyoneAnswers"/>
