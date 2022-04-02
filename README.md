@@ -3,8 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulgautamsingh&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgautamsingh" /> </p>
 
-
-Working part-time on Upwork and contributing to open source projects, learning javascript and react, and adding interesting projects to my never-ending to-do list.
+<ul>
+  <li>Working part-time on Upwork and contributing to open source projects</li>
+  <li>Learning and building with JS/TS, React</li>
+  <li>Adding interesting projects to my perpetual to-do list</li>
+</ul>
 <!-- - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/rahulgautamsingh/sites](https://app.netlify.com/teams/rahulgautamsingh/sites) -->
 
 - 📫 How to reach me <a href="mailto:rahultesnik@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/rahul-singh-032574196/">LinkedIn</a>
