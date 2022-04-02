@@ -4,8 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulgautamsingh&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgautamsingh" /> </p>
 
 
-Currently working part-time on Upwork and contributing to open source projects, learning javascript + React and adding side-projects to my perpetual todo list
-
+Working part-time on Upwork and contributing to open source projects, learning javascript and react, and adding interesting projects to my never-ending to-do list.
 <!-- - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/rahulgautamsingh/sites](https://app.netlify.com/teams/rahulgautamsingh/sites) -->
 
 - 📫 How to reach me <a href="mailto:rahultesnik@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/rahul-singh-032574196/">LinkedIn</a>
