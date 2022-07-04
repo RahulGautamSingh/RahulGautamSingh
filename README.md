@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Gautam Singh</h1>
-<h3 align="center">Full-Stack Developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulgautamsingh&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgautamsingh" /> </p>
+<h3 align="center">Full-Stack Developer</h3>
 
 <ul>
   <li>Working part-time on Upwork and contributing to open source projects</li>
